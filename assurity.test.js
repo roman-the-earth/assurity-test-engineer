@@ -7,7 +7,7 @@ async function getResponse(url){
 }
 
 describe('Test Engineer Service API', () =>{
-  let response = undefined
+  let response = undefined;
   beforeAll( async () => {
     response = await getResponse(serviceUrl);
   })
