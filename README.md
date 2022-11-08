@@ -42,5 +42,5 @@ to simplify the HTTP requests needed.
 # Notes:
 
 - There are currently 7 tests that make up this project
-- Output for the test should give a clear description of scenario under test
-- Any failures with be highlighted in RED along with a description of expected and actual results.
+- Output for the test should give a clear description of the scenario under test
+- Any failures will be highlighted in RED along with a description of expected and actual results.
