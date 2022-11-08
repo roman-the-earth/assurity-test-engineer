@@ -1,0 +1,2 @@
+# don't track node modules -- only package.json is needed!
+node_modules

@@ -27,7 +27,7 @@ to simplify the HTTP requests needed.
 
 1. Download the project from the git repo.
 2. From a system shell (cmd shell for Win), navigate to the project directory
-3. From within the project root (./TEST_ENGINEER) run the following using CLI:
+3. From within the project root (./assurity-test-engineer) run the following using CLI:
      ```
      /> npm install
      ```
@@ -37,7 +37,8 @@ to simplify the HTTP requests needed.
     ```
     /> npm test
     ```
-5. Test should run! :)
+5. Test should run and the output should resemble the following! :)
+    ![Example output](output.png "example output")
 
 # Notes:
 
